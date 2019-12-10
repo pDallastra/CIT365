@@ -1,0 +1,13 @@
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\bin\Debug\wee01.exe.config
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\bin\Debug\wee01.exe
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\bin\Debug\wee01.pdb
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\obj\Debug\wee01.csprojAssemblyReference.cache
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\obj\Debug\wee01.csproj.CoreCompileInputs.cache
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\obj\Debug\wee01.exe
+C:\Users\usada\OneDrive\Documents\BYU I\CIT 365\W01\CIT365-W1\wee01\wee01\obj\Debug\wee01.pdb
+C:\Users\usada\Documents\BYU\CIT365\W03-W05-MegaDek\bin\Debug\week01.exe.config
+C:\Users\usada\Documents\BYU\CIT365\W03-W05-MegaDek\bin\Debug\week01.exe
+C:\Users\usada\Documents\BYU\CIT365\W03-W05-MegaDek\bin\Debug\week01.pdb
+C:\Users\usada\Documents\BYU\CIT365\W03-W05-MegaDek\obj\Debug\wee01.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\W03-W05-MegaDek\obj\Debug\week01.exe
+C:\Users\usada\Documents\BYU\CIT365\W03-W05-MegaDek\obj\Debug\week01.pdb

@@ -1,0 +1,288 @@
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\jchantry\source\repos\RazorPagesMegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\Flores Family\Source\Repos\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\Brad R Allen\Source\Repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\Brad R Allen\Source\Repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\Brad R Allen\Source\Repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\Brad R Allen\source\repos\CIT365MegaDeskWeb\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CoreCompileInputs.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\jchantry\source\repos\CIT365MegaDesk\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\Computer\Documents\CIT365\CIT365MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\usada\Documents\BYU\CIT365\CIT365-W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.deps.json
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.json
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.runtimeconfig.dev.json
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.dll
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\bin\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfoInputs.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.AssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.input.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.TagHelpers.output.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorCoreGenerate.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Create.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Delete.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Details.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Edit.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Quotes\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.RazorTargetAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.dll
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.pdb
+C:\Users\usada\Documents\BYU\CIT365\W08-MegaDesk\RazorPagesMovie\obj\Debug\netcoreapp2.1\MegaDesk.csproj.CopyComplete

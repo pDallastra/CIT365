@@ -1,0 +1,117 @@
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.deps.json
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.json
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.dev.json
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.Views.dll
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.csprojAssemblyReference.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfoInputs.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfo.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.input.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.output.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorCoreGenerate.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Create.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Delete.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Details.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Edit.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Index.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cache
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cs
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\Computer\Documents\CIT365\CIT365\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CopyComplete
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.deps.json
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.json
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.dev.json
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.Views.dll
+C:\Users\usada\Documents\BYU\CIT365\W07\bin\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfoInputs.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.input.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.output.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.RazorCoreGenerate.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Create.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Delete.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Details.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Edit.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CopyComplete
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.deps.json
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.json
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.dev.json
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.Views.dll
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\bin\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfoInputs.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.input.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.output.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.RazorCoreGenerate.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Create.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Delete.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Details.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Edit.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Index.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\usada\Documents\BYU\CIT365\W07-ScriptureStudy\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CopyComplete

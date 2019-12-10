@@ -1,0 +1,104 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification 
+for details on configuring this project to bundle and minify static web assets. */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    color: black;
+    background-color: #bae8e8;
+    font-family: 'Rubik', sans-serif;
+}
+
+.body-content {
+    background-color: #e3f6f5;
+}
+
+.navbar-inverse {
+    background-color: #1b2a49;
+}
+
+.navbar-inverse .navbar-brand {
+        color: white;
+        background-color: #1b2a49;
+    }
+
+.navbar-inverse .navbar-nav > li > a {
+        color: white;
+        border-bottom: none;
+        background-color: #1b2a49;
+    }
+
+a.navbar-brand {
+    border-bottom: thin;
+    color: white;
+    background-color: #272343;
+}
+
+a {
+    color: black;
+    border-bottom: solid;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+td, th {
+    padding: 5px;
+    vertical-align: top;
+}
+
+.btn-default {
+    color: black;
+}
+
+.row > div > h2, .row > div > p {
+    text-align: center;
+}
+
+.row > div > h2, .row > div > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Carousel */
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* QR code generator */
+#qrCode {
+    margin: 15px;
+}
+
+
+.homeTitle {
+    
+    background-color: #e3f6f5;
+    text-align: center;
+}
+
+.sectionImage {
+    width: 110rem;
+    height: 50rem;
+}
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}

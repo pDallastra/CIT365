@@ -1,0 +1,137 @@
+body {
+    background-color: #576fe8;
+    color: lightyellow;
+    font-family: 'Rubik';
+}
+main {
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: #D0D0D0;
+    text-decoration: underline;
+}
+
+.buttonLinks {
+    padding-right: 20px;
+    margin-top: 40px;
+}
+.buttonLinks button {
+    background-color: lightyellow;
+    color: black;
+    width: 100%;
+    height: 50px;
+    font-size: 1.5em;
+    
+}
+
+#searchinput {
+    color: black;
+}
+.rightImage img {  
+    width: 400px;
+    height: 300px;
+
+}
+footer {
+    position: fixed;
+    bottom: 0px;
+    width: 90%;
+    margin: 0% 5%;
+    color: white;
+}
+.quote-table a {
+    color: peru;
+}
+
+.desk-quote {
+    background:rgba(0, 0, 0, 0.51);
+    padding-bottom: 25px;
+}
+
+.row {
+    margin-top:25px;
+}
+
+.review {
+    font-size: 2.1em;
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 60px;
+}
+
+.navbar-inverse {
+    background-color: #18298a;
+}
+
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-brand {
+    color: lightyellow;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#deskDimensionImg {
+    width: 350px;
+    height: 350px;
+    position: absolute;
+    top: 130px;
+    right: 15%;
+}
+.form-group {
+    margin-left: 15px;
+}
+
+.carousel-caption p {
+    font-size: 20px;
+    line-height: 1.4;
+}
+
+
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+
+#qrCode {
+    margin: 15px;
+}
+#myCarousel img {
+    width: 100%;
+
+}
+.row {
+    width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+    /* Hide desk image */
+
+    #deskDimensionImg {
+        height: 0px;
+        width: 0px;
+    }
+}
+
+.hide-me {
+    display: none;
+}
+
+@media screen and (min-width: 992px) {
+    .hide-me {
+        display: table-cell;
+    }
+}
