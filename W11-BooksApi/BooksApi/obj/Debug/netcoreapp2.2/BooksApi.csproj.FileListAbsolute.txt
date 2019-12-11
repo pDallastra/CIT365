@@ -1,0 +1,16 @@
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\usada\Documents\BYU\CIT365\W11-BooksApi\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
