@@ -13150,11 +13150,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W11-BooksApi\\BooksApi\\BooksApi.csproj",
+      "projectUniqueName": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W11-BooksApi\\BooksApi.csproj",
       "projectName": "BooksApi",
-      "projectPath": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W11-BooksApi\\BooksApi\\BooksApi.csproj",
+      "projectPath": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W11-BooksApi\\BooksApi.csproj",
       "packagesPath": "C:\\Users\\usada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W11-BooksApi\\BooksApi\\obj\\",
+      "outputPath": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W11-BooksApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

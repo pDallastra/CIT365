@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usada\\Documents\\test\\Contoso Working\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W10-ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usada\\Documents\\test\\Contoso Working\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W10-ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usada\\Documents\\test\\Contoso Working\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W10-ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\usada\\Documents\\test\\Contoso Working\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W10-ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\usada\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usada\\Documents\\test\\Contoso Working\\ContosoUniversity\\obj\\",
+        "outputPath": "C:\\Users\\usada\\Documents\\BYU\\CIT365\\W10-ContosoUniversity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
